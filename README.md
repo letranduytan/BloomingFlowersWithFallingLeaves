@@ -1,4 +1,4 @@
-# pure css blooming flowers with falling leaves
+# Pure CSS blooming flowers with falling leaves
 
 -----------------------------------------------------------------------------------------------
 **Contact**
